@@ -1,1 +1,9 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "textFontFamily": "Cambria Math",
+  "interfaceFontFamily": "Avenir Next Condensed",
+  "baseFontSize": 22,
+  "accentColor": "",
+  "baseFontSizeAction": true
+}
