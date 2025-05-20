@@ -10,3 +10,4 @@
 | Education         |          |
 | Religion          |          |
 | Nationality       |          |
+GEOGRAPHIC
