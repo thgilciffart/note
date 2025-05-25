@@ -47,7 +47,8 @@
 		- Record perpendicular to the plane firing
 		- Record in 240fps for better accuracy
 			- 60 FPS = 1 frame every 16.6667 ms (1000/60)
-			- 240 FPS = 1 frame every 4.1667 ms (1000/240)![[Pasted image 20250525182248.png]]
+			- 240 FPS = 1 frame every 4.1667 ms (1000/240)
+			- 
 		- Creating a replicable firing machine
 		- Take the video and plot it in software such as [Tracker](https://opensourcephysics.github.io/tracker-website/).
 	- Objective
