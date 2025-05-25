@@ -1,4 +1,4 @@
-# Possible questions 
+# Check Point 1
 - What is the best material for reducing the coefficient of friction between a metal mass and a classroom table?
 	- Material of science lab tables [^1]
 		- Epoxy resin (petroleum based)
@@ -13,9 +13,20 @@
 	- Potential ways to do experiment
 		- Clean application of WD-40 for 5 trials
 		- Use cut out of PTFE and UMHW-PE and stick it on each corner onto metal mass similar to mouse skates
+		- Table on an decline
 	- Background research
 		- WD-40 can used as a lubricant
 		- PTFE and UHMW-PE used as low friction materials to stick on objects such as non stick pans
+	- Potential hypothesis and aim
+		- WD-40 will greatly reduce the coefficient of friction between the metal mass and classroom table compared to other low friction materials and nothing
+		- To determine what the best material or lubricant will be best in reducing the coefficient of friction between the classroom table and a metal mass
+	- Materials required
+		- Double sided tape
+		- Thin PTFE sheets
+		- Thin UHMW-PE sheets
+		- Classroom table
+		- 500g metal mass
+		- 
 - Measure the potential energy and the kinetic energy changes of a pendulum.
 	- Background research
 - Does a projectile fired horizontally fall at the same rate as a projectile dropped from the same height (at least 1.5m)? 
