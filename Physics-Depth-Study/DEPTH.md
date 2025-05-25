@@ -1,5 +1,5 @@
 # Possible questions 
-- What is the best material for reducing the coefficient of friction between a metal mass and a classroom table?
+- What is the best material for reducing the coefficient of friction between a metal mass and a classroom table?d
 	- Material of science lab tables [^1]
 		- Epoxy resin (petroleum based)
 		- Phenolic resin (petroleum based)
