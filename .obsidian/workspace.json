@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "81ddeb3238bd9ff1",
+        "id": "5bc1b6a66ada033a",
         "type": "tabs",
         "children": [
           {
-            "id": "a94ef63962977a40",
+            "id": "bb4b3304ea310a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEMOGRAPHIC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DEMOGRAPHIC"
+            }
+          },
+          {
+            "id": "9c3642236fed65b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing Mix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marketing Mix"
+            }
+          },
+          {
+            "id": "addc40c9944d973e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +49,8 @@
               "title": "DEPTH"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -97,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "right": {
     "id": "c225837714060c0d",
@@ -128,8 +158,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -138,8 +168,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -177,8 +207,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -191,33 +221,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a94ef63962977a40",
+  "active": "addc40c9944d973e",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20250525200618.png",
-    "Attachments/Pasted image 20250525200645.png",
-    "Attachments/Pasted image 20250525200718.png",
-    "Physics-Depth-Study/DEPTH.md",
-    "Attachments/Pasted image 20250525182459.png",
-    "Pasted image 20250525182248.png",
-    "Pasted Image 20250516102920_649.png",
-    "Attachments",
-    "Physics-Depth-Study",
-    "New Text Document.txt",
-    "DEMOGRAPHIC.md",
-    "Marketing Mix.md",
+    "Business-Studies/Operations.md",
+    "Business-Studies/Management-Process.md",
     "ELEVATOR PITCH.md",
+    "Physics-Depth-Study/DEPTH.md",
+    "Physics-Depth-Study",
+    "Attachments/Pasted image 20250525200718.png",
+    "Attachments",
+    "Marketing Mix.md",
+    "DEMOGRAPHIC.md",
     "README.md",
     "Textbooks/Physics/Speed of Remote Control Car Yr11 2025.xlsx",
     "Textbooks/Physics/Preliminary Physics Mechanics.pdf",
@@ -226,14 +252,14 @@
     "Textbooks/Physics",
     "Textbooks/Math/Assessment/Xia_Ethan_Part1_Question3_Section1.ggb",
     "Textbooks/Math/Assessment/Xia_Ethan_Part1_Question2_Section2.ggb",
+    "Textbooks/Math/Assessment/Xia_Ethan_Part1_Question2_Section3.ggb",
     "Textbooks/Untitled.md",
     "PHYSICS.md",
+    "Pasted Image 20250516102920_649.png",
     "Management process marketing.md",
     "Is sexual health education in schools adequately preparing young people for healthy relationships in the future.md",
     "dd.md",
     "d.md",
-    "Business-Studies/Operations.md",
-    "Business-Studies/Management-Process.md",
     "Chemistry/Module 2/2.1.2b.md",
     "Chemistry/Module 2/MOLES.md",
     "Chemistry/Module 2/2.1.2a.md",
@@ -246,6 +272,7 @@
     "Physics/Dynamics/Power.md",
     "Physics/Dynamics/Law of Conservation of Energy.md",
     "Physics/Dynamics/Friction.md",
+    "Physics/Dynamics/Forces.md",
     "Pasted image 20250416191310.png",
     "Untitled.canvas"
   ]
