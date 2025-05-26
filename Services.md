@@ -48,3 +48,8 @@ Services have additional P's
 	- Apple Genius Staff and uniform
 	- Good views
 	- Layout
+- Why it matters
+	- Builds trust before purchase
+	- Communicates professionalism and quality
+	- Sets customer expectations
+	- Helps businesses differentiate from competitors
