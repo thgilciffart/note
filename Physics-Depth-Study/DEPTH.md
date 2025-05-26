@@ -8,8 +8,8 @@
 		- UHMW-PE[^3]
 		- WD-40 Specialist Dry 
 	- Types of friction
-		- Dynamic -> coefficient of friction when an object is moving
-		- Static -> determines force required to begin an objects movement
+		- Dynamic --> coefficient of friction when an object is moving
+		- Static --> determines force required to begin an objects movement
 	- Potential ways to do experiment
 		- Clean application of WD-40 for 5 trials
 		- Use cut out of PTFE and UMHW-PE and stick it on each corner onto metal mass similar to mouse skates
@@ -46,9 +46,9 @@
 	- Experiment
 		- Record perpendicular to the plane firing
 		- Record in 240fps for better accuracy
-			- 60 FPS = 1 frame every 16.6667 ms (1000/60)
-			- 240 FPS = 1 frame every 4.1667 ms (1000/240)!![[Attachments/Pasted image 20250525200718.png]]
-			- The figure above demonstrates the difference when recording in 240fps compared to 60fps. The average chance of when the ball will start rolling would be in the middle of the frame which results in 8.333ms to the next frame when it would start moving on the camera. However when recording in 240FPS, the average chance of when it would appear in the frame is 2.08ms into the current frame, which results in only a 2.08ms difference when the ball rolls in real life and when it would show up in on the camera.
+			- 60 FPS = 1 frame every 16.6667 milliseconds (1000/60)
+			- 240 FPS = 1 frame every 4.1667 milliseconds (1000/240)!![[Attachments/Pasted image 20250525200718.png]]
+			- The figure above demonstrates the difference when recording in 240fps compared to 60fps. The average chance of when the ball will start rolling would be in the middle of the frame which results in 8.333 milliseconds to the next frame when it would start moving on the camera. However when recording in 240FPS, the average chance of when it would appear in the frame is 2.08 milliseconds into the current frame, which results in only a 2.08ms difference when the ball rolls in real life and when it would show up in on the camera.
 			- Video analysis tools such as Tracker, would also benefit with the additional samples of data, with a smoother curve compared to 60FPS
 		- Creating a replicable firing machine
 		- Take the video and plot it in software such as [Tracker](https://opensourcephysics.github.io/tracker-website/).
