@@ -42,3 +42,9 @@ Services have additional P's
 		- Business cards
 		- Brochures
 		- Menus
+- Apple case study
+	- Logos
+	- Trees
+	- Apple Genius Staff and uniform
+	- Good views
+	- Layout
