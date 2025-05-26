@@ -55,7 +55,7 @@
 		- Take the video and plot it in software such as [Tracker](https://opensourcephysics.github.io/tracker-website/).
 	- Objective
 		- Aim - Research the shape and potential curve that the marble follows
-		- Hypotheis
+		- Hypothesis - the ball will follow a parabolic concave down curve.
 	- Recording perpendicular to the plane will result in less perspective warp
 	- Recording at a distance will reduce perspective warp
 
