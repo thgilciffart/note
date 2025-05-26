@@ -1,5 +1,5 @@
 # Check Point 1
-- ==**What is the best material for reducing the coefficient of friction between a metal mass and a classroom table?**==
+- ==**What is the best material for reducing the coefficient of friction between a metal mass and a classroom table?**== 16/05/25
 	- Material of science lab tables [^1]
 		- Epoxy resin (petroleum based)
 		- Phenolic resin (petroleum based)
@@ -28,9 +28,9 @@
 		- 500g metal mass
 		- inclinometer (to measure the incline / decline)
 		- WD-40 Specialist dry 
-- ==**Measure the potential energy and the kinetic energy changes of a pendulum.**==
+- ==**Measure the potential energy and the kinetic energy changes of a pendulum.**== 20/05/25
 	- Background research
-- ==Does a projectile fired horizontally fall at the same rate as a projectile dropped from the same height (at least 1.5m)? ==
+- ==Does a projectile fired horizontally fall at the same rate as a projectile dropped from the same height (at least 1.5m)?==  23/05/25
 	- Background research
 		- Projectiles can be split up into vectors, separated by the axis of the movement. As seen in Chapter 10 'Projectile Motion' Cambridge Extension 1 textbook.
 		- Time of flight of projectile should be the same if the hypothesis is true
@@ -42,7 +42,7 @@
 		- Drop a ball using a trapdoor system in order to eliminate variance 
 		- Record experiment perpendicular to the plane
 		- Record in high fps / high shutter speed / slow motion to determine the time of flight accurately
-- ==Analysis of projectile motion of a marble or other projectile launched using Video Capture==
+- ==Analysis of projectile motion of a marble or other projectile launched using Video Capture== 25/05/25
 	- Experiment
 		- Record perpendicular to the plane firing
 		- Record in 240fps for better accuracy
