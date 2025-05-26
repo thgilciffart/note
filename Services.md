@@ -18,5 +18,27 @@ Services have additional P's
 - People can make or break a service business, in particular. For a goods business, people present the business.
 # Physical Evidence
 - What makes you trust or doubt a business before you even try the product?
-	- Reviews 
-	- Appearance
+	- ==In store==
+		- Waiting areas
+		- Lighting and music
+		- Cleanliness
+		- Signage
+		- Design
+		- Staff uniforms
+		- Store layout
+		- Professionalism
+	- ==Product related==
+		- Display stands
+		- Word of mouth
+		- Branded bags and boxes
+		- Tags and labels
+		- Packaging
+	- ==Digital==
+		- Website design
+		- Mobile app
+		- Email receipts
+		- Social media visuals
+	- ==Printed==
+		- Business cards
+		- Brochures
+		- Menus
