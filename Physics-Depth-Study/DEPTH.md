@@ -29,7 +29,14 @@
 		- inclinometer (to measure the incline / decline)
 		- WD-40 Specialist dry 
 - ==**Measure the potential energy and the kinetic energy changes of a pendulum.**== 20/05/25
-	- Background research
+	- Objective
+		- Measuring the effect that string length / height of starting has on the energy loss i
+		- Measure the time taken for a fully stationary pendulum
+		- Hypothesis - a longer string will result in a longer swing time [^4]
+	- Experiment
+		- Time lapse a home made pendulum with varying string lengths
+		- 3cm string length intervals
+		- 250G and 500G mass
 - ==Does a projectile fired horizontally fall at the same rate as a projectile dropped from the same height (at least 1.5m)?==  23/05/25
 	- Background research
 		- Projectiles can be split up into vectors, separated by the axis of the movement. As seen in Chapter 10 'Projectile Motion' Cambridge Extension 1 textbook.
@@ -42,6 +49,9 @@
 		- Drop a ball using a trapdoor system in order to eliminate variance 
 		- Record experiment perpendicular to the plane
 		- Record in high fps / high shutter speed / slow motion to determine the time of flight accurately
+		- Record in 240fps for better accuracy
+			- 60 FPS = 1 frame every 16.6667 milliseconds (1000/60)
+			- 240 FPS = 1 frame every 4.1667 milliseconds (1000/240)!
 - ==Analysis of projectile motion of a marble or other projectile launched using Video Capture== 25/05/25
 	- Experiment
 		- Record perpendicular to the plane firing
@@ -51,16 +61,24 @@
 			- The figure above demonstrates the difference when recording in 240fps compared to 60fps. The average chance of when the ball will start rolling would be in the middle of the frame which results in 8.333 milliseconds to the next frame when it would start moving on the camera. However when recording in 240FPS, the average chance of when it would appear in the frame is 2.08 milliseconds into the current frame, which results in only a 2.08ms difference when the ball rolls in real life and when it would show up in on the camera.
 			- Video analysis tools such as Tracker, would also benefit with the additional samples of data, with a smoother curve compared to 60FPS
 		- Creating a replicable firing machine
-			- 
 		- Take the video and plot it in software such as [Tracker](https://opensourcephysics.github.io/tracker-website/).
 	- Objective
 		- Aim - Research the shape and potential curve that the marble follows
 		- Hypothesis - the ball will follow a parabolic concave down curve.
 	- Recording perpendicular to the plane will result in less perspective warp
 	- Recording at a distance will reduce perspective warp
+	- Potential parabolic concave down 
+		- Why?
+			-  Daily observation of projectiles
+			- Projectile Motion Cambridge textbook models a projectiles vertical displacement as a negative parabola 
+			- Projectiles have a peak in mid air before falling down, which is seen in a negative parabola
 
+# Chosen Question
+- 
 [^1]: https://www.redandblack.com/uganews/science_health/she-blinded-me-with-science-what-are-lab-tables-made/article_76e1ad3c-0e02-11e3-90af-0019bb30f31a.html
 
 [^2]: https://www.fictiv.com/articles/teflon-polytetrafluoroethylene-ptfe-and-the-coefficient-of-friction
 
 [^3]: https://www.kmsbearings.com/pub/media/itemlister/docs/UHMW_properties.pdf
+
+[^4]: https://www.acs.psu.edu/drussell/Demos/Pendulum/Pendulum.html#:~:text=The%20period%20of%20a%20pendulum,will%20have%20the%20longer%20period.
