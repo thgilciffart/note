@@ -51,9 +51,11 @@
 			- The figure above demonstrates the difference when recording in 240fps compared to 60fps. The average chance of when the ball will start rolling would be in the middle of the frame which results in 8.333 milliseconds to the next frame when it would start moving on the camera. However when recording in 240FPS, the average chance of when it would appear in the frame is 2.08 milliseconds into the current frame, which results in only a 2.08ms difference when the ball rolls in real life and when it would show up in on the camera.
 			- Video analysis tools such as Tracker, would also benefit with the additional samples of data, with a smoother curve compared to 60FPS
 		- Creating a replicable firing machine
+			- 
 		- Take the video and plot it in software such as [Tracker](https://opensourcephysics.github.io/tracker-website/).
 	- Objective
-		- Research the shape and curve that the marble follows
+		- Aim - Research the shape and potential curve that the marble follows
+		- Hypotheis
 	- Recording perpendicular to the plane will result in less perspective warp
 	- Recording at a distance will reduce perspective warp
 
