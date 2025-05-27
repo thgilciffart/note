@@ -8,3 +8,7 @@
 - 'Dude everything is fine'
 ## 21:50
 - 'Everything is great. Margot and I are great'
+## 42:37-
+- 'Trust me, it's probability better than this'
+- 'My dad doesn't know I stopped going to piano. He wouldn't get it'
+- 'Come in' -> change in her tone 
