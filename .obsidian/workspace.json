@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a94ef63962977a40",
+            "id": "0657c4937123d754",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics-Depth-Study/DEPTH.md",
+                "file": "Math/Ext2/Ext2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DEPTH"
+              "title": "Ext2"
+            }
+          },
+          {
+            "id": "847eded74a12736c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lore ipsqum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lore ipsqum"
+            }
+          },
+          {
+            "id": "656b123ca928e9ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "c225837714060c0d",
@@ -204,19 +232,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a94ef63962977a40",
+  "active": "656b123ca928e9ad",
   "lastOpenFiles": [
+    "lore ipsqum.md",
+    "conflict-files-obsidian-git.md",
+    "Math/Ext2/Ext2.md",
+    "Math/Ext2/Solution.md",
+    "ENGLISH/ASSESSMENT.md",
+    "Textbooks/Math/CMS6_Ext1_Y12_Ch01 Sequences and series.pdf",
+    "Textbooks/Math/!REFERENCE.pdf",
+    "Services.md",
+    "DEMOGRAPHIC.md",
+    "Physics-Depth-Study/DEPTH.md",
+    "ENGLISH",
     "Attachments/Pasted image 20250525200618.png",
     "Attachments/Pasted image 20250525200645.png",
     "Attachments/Pasted image 20250525200718.png",
-    "Physics-Depth-Study/DEPTH.md",
     "Attachments/Pasted image 20250525182459.png",
     "Pasted image 20250525182248.png",
     "Pasted Image 20250516102920_649.png",
     "Attachments",
     "Physics-Depth-Study",
     "New Text Document.txt",
-    "DEMOGRAPHIC.md",
     "Marketing Mix.md",
     "ELEVATOR PITCH.md",
     "README.md",
@@ -224,9 +261,6 @@
     "Textbooks/Physics/Preliminary Physics Mechanics.pdf",
     "Textbooks/Physics/Preliminary Physics Mechanics for students 2025.pdf",
     "Textbooks/Physics/physics.pdf",
-    "Textbooks/Physics",
-    "Textbooks/Math/Assessment/Xia_Ethan_Part1_Question3_Section1.ggb",
-    "Textbooks/Math/Assessment/Xia_Ethan_Part1_Question2_Section2.ggb",
     "Textbooks/Untitled.md",
     "PHYSICS.md",
     "Management process marketing.md",
@@ -239,14 +273,9 @@
     "Chemistry/Module 2/MOLES.md",
     "Chemistry/Module 2/2.1.2a.md",
     "Chemistry/Periodic table Trends.md",
-    "Math/Ext2/Solution.md",
-    "Math/Ext2/Ext2.md",
     "Math/Advanced/Solutions.md",
     "Math/Advanced/Adv.md",
     "Physics/Dynamics/Work and Energy.md",
-    "Physics/Dynamics/Power.md",
-    "Physics/Dynamics/Law of Conservation of Energy.md",
-    "Physics/Dynamics/Friction.md",
     "Pasted image 20250416191310.png",
     "Untitled.canvas"
   ]
