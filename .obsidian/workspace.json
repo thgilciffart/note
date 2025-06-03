@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Situational Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Situational Analysis"
             }
           }
         ],
@@ -221,8 +221,9 @@
   },
   "active": "d9fcb8a74c596a7a",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled 1.md",
+    "Untitled.md",
+    "Situational Analysis.md",
     "Services.md",
     "ENGLISH/ASSESSMENT.md",
     "ENGLISH",
@@ -258,7 +259,6 @@
     "Math/Ext2/Solution.md",
     "Math/Ext2/Ext2.md",
     "Math/Advanced/Solutions.md",
-    "Math/Advanced/Adv.md",
     "Pasted image 20250416191310.png",
     "Untitled.canvas"
   ]
