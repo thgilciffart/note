@@ -52,14 +52,21 @@ Previous anecdotes of the bullet dropping in the same time as a feather in a vac
 - 1 standard golf ball
 - iPad or a camera capable of 240FPS recording or higher
 ## Expected analysis
+The setting of the hall is due to a multitude of reasons. Firstly, it has the required elevation to drop the ball. The platform is elevated 2.1m from the ground of the hall, fitting the parameters of the experiment. On top of that, the hall lights provide a higher lux count compared to typical LED light bulbs found in rooms. These strong stage lights are crucial for 2 reasons. Firstly due to how cameras work, the camera has to open and close at increased speeds to record in the
+
 Setting the camera on 240FPS or higher will ensure a higher accuracy. The average chance of when the ball will start rolling would be in the middle of the frame which results in 8.333 milliseconds to the next frame when it would start moving on the camera. However when recording in 240FPS, the average chance of when it would appear in the frame is 2.08 milliseconds into the current frame, which results in only a 2.08ms difference when the ball rolls in real life and when it would show up in on the camera. 
 
 The camera perpendicular to the plane, directly facing the side profile of the golf ball will ensure less camera warping. If viewing or recording from an angle, it would complicate it as there would be 3 dimensions involved instead of 2 if you viewed it flat on. It could also manipulate the speed of which the ball travels on the camera, if the ball is closer to the camera, then it would appear larger and have a faster speed in extreme cases.
 
-The elevation is there to ensure it is above the height of 1.5m.
+The elevation is there to ensure it is above the height of 1.5m. Measuring and making note of the height allows for later calculations and for verification. Connecting the hot wheels track from the top of a school chair to the edge of the platform allows for a repeatable experiment. Ensuring it is stable allows for the best chance of staying on track and being repeatable, as well as allowing for the best speed.
 
-## Issues
+The blackboard behind the path of the ball has a multitude of purposes. The ruler on the blackboard serves as a reference measurement for the tracking software Tracker. This allows for correct and accurate measurements. On top of that, the blackboard serves as a strong contrast behind the ball (white ball on black board), allowing for an easier auto tracking from tracker. 
+
+
+
+## Potential issues
 - Lack of control, due to pushing the ball off of the edge of the platform this creates inconsistent control. Though this can be neglected as it shouldn't affect the results, it would be best to incorporate a 0 velocity control.
+- The track could be set up inconsistently however, this should not hinder the results as if the hypothesis is true, horizontal velocity should have no affect onto the vertical velocity and thus they should fall at the same rate.
 # Results
 # Analysis of data
 # Discussion
