@@ -20,13 +20,12 @@ The vertical velocity is not affected by horizontal velocity and thus a the stat
 
 # Justification
 Previous anecdotes of the bullet dropping in the same time as a feather in a vacuum environment. Projectiles can often be defined as a vector equation indicating that horizontal and vertical motions are independent of each other.
-
-
-
 # Methodology
 ## Method
+1. Set up the iPad camera as perpendicular to the ball as possible
 ## Apparatus
 ## Expected analysis
+## Issues
 # Results
 # Analysis of data
 # Discussion
