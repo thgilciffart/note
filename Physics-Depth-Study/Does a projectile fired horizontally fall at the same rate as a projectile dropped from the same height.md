@@ -27,19 +27,23 @@ Previous anecdotes of the bullet dropping in the same time as a feather in a vac
 ![[Attachments/Pasted image 20250609223642.png]]
 3. On top of an elevated platform, place a chair such that the front faces perpendicular to the elevated platform and it is not on an angle.
 4. Measure using a ruler and make note of  note of the height from the ground to the elevated platform
-5. Connect the hot wheels race track from the top of the chair to the edge of the platform using paper tape
+5. Connect the hot wheels race track from the top of the chair to the edge of the platform using paper tape. See image below for guidance
+![[Attachments/Pasted image 20250609225933.png]]
 6. Ensure the track is stable and does not move or shake when a ball is rolling down.
 7. For stability, support the track below to ensure it will not bend downwards when the golf ball rolls down.
 8. .Measure using a ruler and make note of the height of the top of race track to the platform
-9. Start recording on the iPad
-10. Drop the golf ball from the top of race track
-11. Repeat step 10 10 times.
-12. Stop the recording on the iPad
-13. Start a new recording
-14. Push the ball of the edge of the race track ensuring minimal horizontal velocity
-15. Repeat step 14 10 times
+9. Put a blackboard slightly behind the path of ball.
+10. Tape a 1 meter ruler on the blackboard, ensuring it is level and straight.
+11. Start recording on the iPad
+12. Drop the golf ball from the top of race track
+13. Repeat step 12 10 times.
+14. Stop the recording on the iPad
+15. Start a new recording
+16. Push the ball of the edge of the race track ensuring minimal horizontal velocity
+17. Repeat step 16 10 times
 ## Apparatus
 - 1x black school chair
+- Blackboard
 - 1 roll of paper tape
 - 7x mini hot wheels race track -> the amount depends on the height you want to drop it at
 - 6x connectors mini hot wheel track connectors -> the amount depends on the height you want to drop it at
@@ -50,6 +54,7 @@ Previous anecdotes of the bullet dropping in the same time as a feather in a vac
 ## Expected analysis
 
 ## Issues
+- Lack of control, due to pushing the ball off of the edge of the platform this creates inconsistent control. Though this can be neglected as it shouldn't affect the results, it would be best to incorporate a 0 velocity control.
 # Results
 # Analysis of data
 # Discussion
