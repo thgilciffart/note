@@ -75,6 +75,7 @@
 
 # Chosen Question
 - ==Does a projectile fired horizontally fall at the same rate as a projectile dropped from the same height (at least 1.5m)?== 
+
 [^1]: https://www.redandblack.com/uganews/science_health/she-blinded-me-with-science-what-are-lab-tables-made/article_76e1ad3c-0e02-11e3-90af-0019bb30f31a.html
 
 [^2]: https://www.fictiv.com/articles/teflon-polytetrafluoroethylene-ptfe-and-the-coefficient-of-friction
