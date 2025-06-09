@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "analysing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,12 +128,12 @@
               "title": "Backlinks for Management-Process"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "c225837714060c0d",
@@ -239,7 +239,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d0362d63daeaa1e7",
+  "active": "c7b780fd6130ff6d",
   "lastOpenFiles": [
     "Physics-Depth-Study/DEPTH.md",
     "Physics-Depth-Study/Does a projectile fired horizontally fall at the same rate as a projectile dropped from the same height.md",

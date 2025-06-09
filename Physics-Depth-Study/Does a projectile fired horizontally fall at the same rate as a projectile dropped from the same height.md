@@ -65,6 +65,8 @@ The blackboard behind the path of the ball has a multitude of purposes. The rule
 Pushing the ball off of the edge of the track should result in minimal horizontal velocity whilst maintaining the same vertical height. As seen in the aim, it is still measuring the affect of which horizontal velocity has upon vertical velocity. The little horizontal velocity can be negated and ignored for the experiment.
 
 It is important to repeat these experiments a multitude of times to see if they yield consistent results.
+
+Using sound whilst analysing the videos provides a secondary source of verification the ball has hit the ground. Because the speed of sound at that distance is negligible and instant, using sound as well as visuals to verify the time will help improve analysis.
 ## Potential issues
 - Lack of control, due to pushing the ball off of the edge of the platform this creates inconsistent control. Though this can be neglected as it shouldn't affect the results, it would be best to incorporate a 0 velocity control.
 - The track could be set up inconsistently however, this should not hinder the results as if the hypothesis is true, horizontal velocity should have no affect onto the vertical velocity and thus they should fall at the same rate.
@@ -72,16 +74,22 @@ It is important to repeat these experiments a multitude of times to see if they 
 
 | Trial | Stationary Time (s) | Moving time (s) |
 | ----- | ------------------- | --------------- |
-| 1     | 0.746               |                 |
-| 2     |                     |                 |
-| 3     |                     |                 |
-| 4     |                     |                 |
-| 5     |                     |                 |
-| 6     |                     |                 |
-| 7     |                     |                 |
-| 8     |                     |                 |
-| 9     |                     |                 |
-| 10    |                     |                 |
+| 1     | 0.746               | 0.759           |
+| 2     | 0.852               | 0.745           |
+| 3     | 0.743               | 0.839           |
+| 4     | 0.760               | 0.846           |
+| 5     | 0.844               | 0.855           |
+| 6     | 0.786               | 0.741           |
+| 7     | 0.850               | 0.772           |
+| 8     | 0.755               | 0.743           |
+| 9     | 0.860               | 0.779           |
+| 10    | 0.798               | 0.860           |
+
+| Stats              | Stationary | Moving |
+| ------------------ | ---------- | ------ |
+| Average            | 0.799s     | 0.794s |
+| Standard deviation | 0.050s     | 0.053s |
+| Uncertainty        | ±0.016s    |        |
 
 # Analysis of data
 # Discussion
