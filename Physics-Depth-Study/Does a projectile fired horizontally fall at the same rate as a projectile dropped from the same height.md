@@ -54,7 +54,9 @@ Previous anecdotes of the bullet dropping in the same time as a feather in a vac
 ## Expected analysis
 Setting the camera on 240FPS or higher will ensure a higher accuracy. The average chance of when the ball will start rolling would be in the middle of the frame which results in 8.333 milliseconds to the next frame when it would start moving on the camera. However when recording in 240FPS, the average chance of when it would appear in the frame is 2.08 milliseconds into the current frame, which results in only a 2.08ms difference when the ball rolls in real life and when it would show up in on the camera. 
 
-The camera perpendicular to the plane, directly facing the side profile of the golf ball will ensure less camera warping. If viewing or recording from an angle, it could potentially affect the results 
+The camera perpendicular to the plane, directly facing the side profile of the golf ball will ensure less camera warping. If viewing or recording from an angle, it would complicate it as there would be 3 dimensions involved instead of 2 if you viewed it flat on. It could also manipulate the speed of which the ball travels on the camera, if the ball is closer to the camera, then it would appear larger and have a faster speed in extreme cases.
+
+The elevation is there to ensure it is above the height of 1.5m.
 
 ## Issues
 - Lack of control, due to pushing the ball off of the edge of the platform this creates inconsistent control. Though this can be neglected as it shouldn't affect the results, it would be best to incorporate a 0 velocity control.
