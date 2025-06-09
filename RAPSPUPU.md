@@ -1,3 +1,4 @@
+# RAPSPUPU
 - Relationship marketing
 - Advertising
 	- Paid, non personal message communicated through a mass medium
@@ -20,5 +21,16 @@
 		- Encourage trial purchase or a new product
 		- Increase sales to exist customers and repeat purchase
 		- 
-- Pu
-- Pu
+- Publicity 
+	- Any free news story about a business's products
+	- Aims to enhance the image of the product, raising awareness of the product, highlights business favourable features, reduce any negative image that may have been created
+- Public relations
+	- Activities aimed at creating and maintaining favourable relations between a business and its customers
+	- Can assist a business by: promoting a positive image, effective communication of messages, issues monitoring, crisis management.
+
+# Communication Process
+- If communication becomes distorted or inefficient, the message becomes distorted.
+	- Miscommunication results in a loss of sales
+	- Customers are more willing to purchase products if message is communicated through respected and trusted channels such as:
+		- Opinion leaders
+		- Word of mouth
