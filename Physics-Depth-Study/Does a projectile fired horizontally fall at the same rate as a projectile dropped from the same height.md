@@ -19,4 +19,15 @@ To determine if the horizontal velocity of a projectile impacts the rate of chan
 The vertical velocity is not affected by horizontal velocity and thus a the stationary projectile dropped and a moving projectile will fall in the same time
 
 # Justification
-- 
+Previous anecdotes of the bullet dropping in the same time as a feather in a vacuum environment. Projectiles can often be defined as a vector equation indicating that horizontal and vertical motions are independent of each other.
+
+
+
+# Methodology
+## Method
+## Apparatus
+## Expected analysis
+# Results
+# Analysis of data
+# Discussion
+# Conclusion
