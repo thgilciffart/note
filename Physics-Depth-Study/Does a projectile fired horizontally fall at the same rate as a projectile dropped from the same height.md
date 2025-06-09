@@ -14,4 +14,9 @@ Background research
 			- 240 FPS = 1 frame every 4.1667 milliseconds (1000/240)!
 
 # Aim
-To determine if horizontal velocity impacts the rate of change for the vertical velocity. 
+To determine if the horizontal velocity of a projectile impacts the rate of change for the vertical velocity.
+# Hypothesis
+The vertical velocity is not affected by horizontal velocity and thus a the stationary projectile dropped and a moving projectile will fall in the same time
+
+# Justification
+- 
