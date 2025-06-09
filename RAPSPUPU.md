@@ -1,0 +1,15 @@
+- R
+- Advertising
+	- Paid, non personal message communicated through a mass medium
+	- Provides businesses with the flexibility to reach extremely large audiences or focus on a small target segment
+	- Six main advertising media
+		- Mass marketing
+		- Direct marketing catalogues
+		- Telemarketing
+		- E-marketing
+		- Social media advertising
+		- Billboards
+- P
+- S
+- Pu
+- Pu
