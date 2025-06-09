@@ -1,4 +1,4 @@
-- R
+- Relationship marketing
 - Advertising
 	- Paid, non personal message communicated through a mass medium
 	- Provides businesses with the flexibility to reach extremely large audiences or focus on a small target segment
@@ -9,7 +9,16 @@
 		- E-marketing
 		- Social media advertising
 		- Billboards
-- P
-- S
+- Personal selling
+	- Involves the activities of a sales representative directed to a customer in an attempt to make a sale
+- Relationship marketing
+	- The development of long term and cost effective relationships with individual customers
+- Sales promotion
+	- The use of activities or materials as direct inducements to customers
+	- Used to
+		- Entice new customers
+		- Encourage trial purchase or a new product
+		- Increase sales to exist customers and repeat purchase
+		- 
 - Pu
 - Pu
